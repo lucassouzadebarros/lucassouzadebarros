@@ -9,5 +9,5 @@ Meu nome é Lucas, sou um estudante do curso, Análise e Desenvolvimento de Sist
     🚀Atualmente, estou estudando Java, Angular.
     💻Tecnologias já estudadas: Java, Angular.
     🌍Idiomas: Português, Inglês Básico.
-    💼Atualmente, sou estágiario na Mestra Informática.
+    💼Atualmente, sou analista de sistemas JR.
 
